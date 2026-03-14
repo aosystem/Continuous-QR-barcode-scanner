@@ -6,6 +6,9 @@ A high-speed, continuous scanning solution built with **Flutter**. Designed for 
 [![iOS App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id1562534561)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/bL8KfBnRqpU/0.jpg)](https://www.youtube.com/watch?v=bL8KfBnRqpU)
+
 ## 🌟 Why This App?
 
 Unlike standard camera apps, this tool is optimized for **speed** and **batch processing**.
